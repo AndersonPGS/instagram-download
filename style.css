@@ -6,6 +6,13 @@ body{
     background: #0C1821;
 }
 
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
 .container {
     display: flex;
     align-items: center;
